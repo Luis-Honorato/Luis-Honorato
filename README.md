@@ -1,7 +1,7 @@
 ### Hello!! My name is Luís Honorato 👋
 
 - 🔭 I'm looking for my first job in the Tech Area
-- 🌱 Actualy i'm studing Flutter!
+- 🌱 Actualy i'm studing Flutter and React!
 - 📫 Contact: luismhonorato23@gmail.com
 - 😄 Pronouns: he/him
 
