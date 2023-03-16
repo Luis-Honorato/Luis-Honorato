@@ -1,7 +1,7 @@
 ### Hello!! My name is Luís Honorato 👋
 
-- 🔭 I'm a Mobile/Flutter Developer
-- 🌱 Actualy i'm studing Flutter and React!
+- 🔭 I'm a Mobile/Flutter Developer With 8 Months Work Experience!
+- 🌱 Actualy i'm studing Flutter and GoLang!
 - 📫 Contact: luismhonorato23@gmail.com
 - 😄 Pronouns: he/him
 
@@ -13,11 +13,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
   <img align="center" alt="Luis-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-   <img align="center" alt="Luis-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+   <img align="center" alt="Luis-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
   <img align="center" alt="Luis-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="Luis-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
   
 </div>
   
