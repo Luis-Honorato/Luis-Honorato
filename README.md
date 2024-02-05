@@ -1,6 +1,6 @@
 ### Hello!! My name is Luís Honorato 👋
 
-- 🔭 I'm a Mobile/Flutter Developer With 8 Months Work Experience!
+- 🔭 I'm a Mobile/Flutter Developer
 - 🌱 Actualy i'm studing Flutter and GoLang!
 - 📫 Contact: luismhonorato23@gmail.com
 - 😄 Pronouns: he/him
